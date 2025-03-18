@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use - ListiShop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ListiShop - Terms and Conditions</h1>
+    </header>
+
+    <main>
+        <p>Last updated: 20 Feb 2025 14:10:11 PST</p>
+
+        <h2>1. Introduction</h2>
+        <p>Welcome to ListiShop! These terms and conditions outline the rules and regulations for the use of our application.</p>
+
+        <h2>2. Acceptance of Terms</h2>
+        <p>By downloading or using the app, these terms will automatically apply to you. Please read them carefully before using our app. If you disagree with any part of the terms, please do not use our application.</p>
+
+        <h2>3. License to Use</h2>
+        <p>ListiShop grants you a non-exclusive, non-transferable, limited license to use the app for personal, non-commercial purposes. You may not copy, modify, or distribute any part of the app or our intellectual property without our permission.</p>
+
+        <h2>4. User Accounts</h2>
+        <p>To access certain features, you may be required to create an account. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your device.</p>
+
+        <h2>5. Subscription and Auto-Renewal</h2>
+        <p>ListiShop offers subscription plans that automatically renew. By purchasing a subscription, you agree to automatic renewal for the selected plan (monthly, 3 months, or yearly) unless canceled before the end of the current billing period. Subscription fees will be charged to the payment method on file unless canceled through your account settings.</p>
+
+        <h2>6. Prohibited Conduct</h2>
+        <p>Users agree not to misuse the app in any way, including but not limited to:</p>
+        <ul>
+            <li>Engaging in any unlawful activity</li>
+            <li>Attempting to disrupt or damage the app</li>
+            <li>Impersonating another person or entity</li>
+        </ul>
+
+        <h2>7. Data Collection and Privacy</h2>
+        <p>We are committed to protecting your privacy. The app may store certain user information, including your email, name, and phone number, to provide you with a personalized experience and for communication purposes. For more information on how we handle and protect your data, please refer to our Privacy Policy.</p>
+
+        <h2>8. Termination</h2>
+        <p>We reserve the right to terminate or suspend access to the app immediately, without prior notice, for conduct that we deem unacceptable, or for any other reason.</p>
+
+        <h2>9. Limitation of Liability</h2>
+        <p>ListiShop, its employees, and affiliates are not liable for any indirect, incidental, or consequential damages arising from your use of the app.</p>
+
+        <h2>10. Changes to These Terms</h2>
+        <p>We may update our Terms and Conditions from time to time. We encourage you to review this page periodically for any changes.</p>
+
+        <h2>11. Contact Information</h2>
+        <p>If you have any questions about these Terms and Conditions, please contact us:</p>
+        <ul>
+            <li>Email: ⁠andrewmichael1992@gmail.com</li>
+            <li>Phone: 07960419992</li>
+            <li>Address: ⁠⁠Deneway House, 88 - 94 Darkes Lane, Potters Bar, Hertfordshire, ⁠⁠United Kingdom, EN6 1AQ</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; <span id="year"></span> ListiShop. All Rights Reserved.</p>
+    </footer>
+
+    <script>
+        // Update year dynamically
+        document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
